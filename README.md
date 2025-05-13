@@ -12,11 +12,10 @@
 - Software engineering concepts
 - Agile project management (Scrum)
 - Transitioning from engineering to tech
-- Creating academic or personal portfolio projects
 
 📫 How to reach me:  
 [LinkedIn](https://www.linkedin.com/in/kimgatilano)
 
 😄 Pronouns: she/her
 
-⚡ Fun fact: I used to work in broadcast and satellite engineering and now I’m bringing that same precision and curiosity into tech!
+⚡ Fun fact: I used to work in broadcast and satellite engineering, and now I’m bringing that same precision and curiosity into tech!
